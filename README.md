@@ -23,7 +23,7 @@
 ## 🛠️ How to Run Locally
 ### 1. Clone this repo:
    ```sh
-   git clone https://github.com/name/name.git
+   https://github.com/itsbhavsagar/crwn-clothing.git
 
 ```
 ### 2. Install dependencies:
