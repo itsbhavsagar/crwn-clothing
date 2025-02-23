@@ -24,7 +24,6 @@
 
   .quantity {
     display: flex;
-
     .arrow {
       cursor: pointer;
     }
@@ -37,5 +36,8 @@
   .remove-button {
     padding-left: 12px;
     cursor: pointer;
+  }
+  .remove-button:hover {
+    color: red;
   }
 }
