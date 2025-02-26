@@ -4,7 +4,7 @@ import './checkout-item.styles.scss';
 
 import React from 'react';
 
-const CheckoutItem = ({ cartItem }) => {
+const CheckoutItem = ({ cartItem, cartTotal }) => {
   const { name, imageUrl, price, quantity } = cartItem;
 
   const { clearItemFromCart, addItemToCart, removeItemToCart } =
