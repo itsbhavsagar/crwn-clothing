@@ -2,7 +2,8 @@
 
 A modern and scalable e-commerce platform built with React, featuring a comprehensive shopping experience with category browsing, cart management, user authentication, and payment processing.
 
-![Crown Clothing Screenshot](https://place-hold.it/800x400&text=Crown%20Clothing%20Screenshot)
+![Crown Clothing Screenshot](https://drive.google.com/uc?export=view&id=1YT_JSp7lC3AkGUwz4pLG7WIxNlcn-SCL)
+
 
 ## 📋 Project Overview
 
